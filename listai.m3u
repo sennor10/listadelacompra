@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LaLiga 1440P  dce1
+http://127.0.0.1:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LaLiga 1080P  aa82
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLigaTV HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M. LaLiga 1080 MultiAudio  7d8c
@@ -39,6 +41,8 @@ http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  4af5
 http://127.0.0.1:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  1629
+http://127.0.0.1:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  931b
 http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  0457
